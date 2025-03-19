@@ -313,3 +313,8 @@ with open("ai_blog.html", "w", encoding="utf-8") as f:
 print("\n Final HTML Output:\n", final_state["html_page"])
 
 ```
+
+
+## Output
+
+![Image](https://github.com/MAHMOUDRR707/AI-Content-Generator/blob/master/sample_output.jpg)
