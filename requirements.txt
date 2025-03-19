@@ -1,0 +1,9 @@
+langchain
+langgraph 
+openai 
+requests 
+datasets 
+python-dotenv 
+flask 
+langchain-nvidia-ai-endpoints 
+GoogleNews
